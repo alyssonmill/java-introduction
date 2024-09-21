@@ -22,6 +22,7 @@ public class Main2 {
         System.out.println("This is the user age: " + userAge);
         System.out.println("This is the user Height: " + userHeight);
         System.out.println("This is the user Weigth: " + userWeigth + "KG");
+        System.out.println("This is the user BMI: " + userBmi);
         System.out.println("This is the user year of boarn: " + userYear);
     }
 }
